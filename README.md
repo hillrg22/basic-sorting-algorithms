@@ -8,7 +8,7 @@
 
 ## Resources
 
-* [Learn - Selection Sort](git@github.com:matt-winzer/basic-sorting-algorithms.git)
+* [Learn - Selection Sort](https://learn-2.galvanize.com/cohorts/757/blocks/22/content_files/subtrees/computer-science-curriculum/Unit-2/03-sorting-intro.md)
 * [VisuAlgo - Sorting Visualization](https://visualgo.net/en/sorting)
 * [Wiki - Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
 * [Wiki - Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
